@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:apps='http://schemas.google.com/apps/2006'>
+	<title>Mail Filters</title>
+	<id>tag:mail.google.com,2008:filters:z0000001728258410078*3005764933215748824</id>
+	<updated>2024-10-06T23:47:03Z</updated>
+	<author>
+		<name>Mario Reyes</name>
+		<email>mario.reyes@gmail.com</email>
+	</author>
+	<entry>
+		<category term='filter'></category>
+		<title>Mail Filter</title>
+		<id>tag:mail.google.com,2008:filter:z0000001728258410078*3005764933215748824</id>
+		<updated>2024-10-06T23:47:03Z</updated>
+		<content></content>
+		<apps:property name='subject' value='{SPAM?}'/>
+		<apps:property name='label' value='[Imap]/Trash/Junk'/>
+		<apps:property name='sizeOperator' value='s_sl'/>
+		<apps:property name='sizeUnit' value='s_smb'/>
+	</entry>
+</feed>
